@@ -14,8 +14,3 @@ Website ini merupakan **situs resmi perusahaan**, yang menampilkan profil, produ
 - **HTML5** — struktur halaman  
 - **CSS3** — desain dan tata letak  
 - **JavaScript (optional)** — interaktivitas (rencana pengembangan selanjutnya)
-
-## 🚀 Cara Menjalankan
-1. Clone repositori:
-   ```bash
-   git clone https://github.com/username/ateforge-website.git
